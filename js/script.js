@@ -1,3 +1,4 @@
+// create numbers from 1 to 100 
 for (var i = 1; i <= 100; i++){
   // For numbers that are multiples of 3 and 5 print "FizzBuzz"
   if (i % 3 == 0 && i % 5 == 0){
